@@ -2,7 +2,7 @@
 
 I’m a **Data Analyst and Data Scientist** with a passion for **global health** and a vision for how **AI can transform healthcare systems**, particularly across Africa.
 
-Currently, I’m part of the **Healthcare Team at Sand Technologies**, where we develop data-driven solutions to improve healthcare delivery—primarily in Rwanda, with the goal of expanding our impact to other African countries.
+Currently, I’m part of the **Healthcare Team at Sand Technologies**, where we develop data-driven solutions to improve healthcare delivery for our clients—primarily in Rwanda, with the goal of expanding our impact to other African countries.
 
 In my free time, I volunteer as a **Coordinator** for the **Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program**. I’m passionate about building a future where **medical imaging technologies are accessible to all**—not just a privileged few.
 
