@@ -2,7 +2,7 @@
 
 I’m a **Data Analyst and Data Scientist** with a passion for **global health**. Currently, I’m part of the **Healthcare Team at Sand Technologies**, where we develop data-driven solutions to strengthen healthcare delivery—primarily in Rwanda, with a vision to scale across other African countries. You can learn more about our work [here](https://healthcare.sandtech.com/#RHOS_Success).
 
-In my free time, I volunteer as a **Coordinator** for the [**Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program**] (https://event.fourwaves.com/spark/pages). I’m passionate about building a future where **medical imaging technologies are accessible to all**—not just a privileged few.
+In my free time, I volunteer as a **Coordinator** for the [Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program](https://event.fourwaves.com/spark/pages). I’m passionate about building a future where **medical imaging technologies are accessible to all**—not just a privileged few.
 
 I’m also a firm believer in the **African Union’s Agenda 2063: *The Africa We Want***, and I regularly tune into discussions by thought leaders shaping this vision. It’s my hope to contribute, even in a small way, to making it a reality in my lifetime.
 
