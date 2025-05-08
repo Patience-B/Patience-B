@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Patience Bwire!
+### 👋 Hi there, I'm Patience Bwire!
 
 I’m a **Data Analyst and Data Scientist** with a passion for **global health**. Currently, I’m part of the **Healthcare Team** at [Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success), where we develop data-driven solutions to strengthen healthcare delivery—primarily in Rwanda, with a vision to scale across other African countries. 
 
@@ -14,14 +14,14 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tools & Technologies
 
-**🔍 Data Analysis & Visualization**  
+**Data Analysis & Visualization**  
 `SQL`, `Tableau`, `Python`  
 Python libraries: `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Plotly`, `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
 
-**🤖 Machine Learning**  
+**Machine Learning**  
 `TensorFlow`, `scikit-learn`, `PyTorch`, `Keras`
 
-**🧰 Additional Skills**  
+**Additional Skills**  
 `Version Control (Git/GitHub)`, `Agile Development`, `Programming (C, Bash)`, `GSuite`
 
 ---
