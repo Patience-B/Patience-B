@@ -12,8 +12,8 @@ I’m also a firm believer in the **African Union’s Agenda 2063: *The Africa W
 
 I'm especially interested in the **future of AI in healthcare**, with a research focus on:
 
-* Medical Imaging**
-* Physiological Data Analysis**
+* Medical Imaging
+* Physiological Data Analysis
 
 I'm driven by the belief that AI can unlock better health outcomes globally, and I actively seek out projects and collaborations that align with that mission.
 
