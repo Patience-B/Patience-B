@@ -29,5 +29,4 @@ When I'm not working with data or healthcare systems, you’ll likely find me:
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patience%20Bwire-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
