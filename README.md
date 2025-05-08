@@ -20,12 +20,10 @@ I'm driven by the belief that AI can unlock better health outcomes globally, and
 ### 🎨 Outside Work
 
 When I'm not working with data or healthcare systems, you’ll likely find me:
-
-* Browsing used bookstores and adding to my collection of **50+ classic books** (still working on reading them!)
-* Solving **jigsaw puzzles**—I love the quiet, unhurried rhythm of fitting pieces together and the calm it brings
-* Taking **evening walks** to unplug and reflect
-* Playing **board games**—I’m a fan of games of chance 
-
+* Sharing a meal, a conversation, or a cup of tea with friends and family—there’s nothing quite like quality time with loved ones.
+* Browsing used bookstores and adding to my growing collection of 50+ classic books (still working on reading them all!).
+* Solving jigsaw puzzles—I enjoy the slow, calming rhythm of fitting pieces together and the sense of quiet focus it brings.
+* Taking evening walks to unplug, reflect, and reset after a long day.
 ---
 
 ### 📫 Connect with Me
