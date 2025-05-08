@@ -14,15 +14,16 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tools & Technologies
 
-🔍 Data Analysis & Visualization
-SQL, Tableau, Python
-Python libraries: Pandas, NumPy, SciPy, Seaborn, Plotly, GeoPandas, Shapely, Folium, Geoplot
+**🔍 Data Analysis & Visualization**  
+`SQL`, `Tableau`, `Python`  
+Python libraries: `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Plotly`, `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
 
-🤖 Machine Learning
-TensorFlow, scikit-learn, PyTorch, Keras
+**🤖 Machine Learning**  
+`TensorFlow`, `scikit-learn`, `PyTorch`, `Keras`
 
-🧰 Additional Skills
-Version Control (Git/GitHub), Agile Development, Programming (C, Bash), GSuite
+**🧰 Additional Skills**  
+`Version Control (Git/GitHub)`, `Agile Development`, `Programming (C, Bash)`, `GSuite`
+
 ---
 
 ### 📫 Connect with Me
