@@ -6,11 +6,6 @@ I'm especially interested in the **future of AI in healthcare**, with a research
 
 In my free time, I volunteer as a **Coordinator** for the [Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program](https://event.fourwaves.com/spark/pages). I’m passionate about building a future where **medical imaging technologies are accessible to all**—not just a privileged few.
 
-### 🧠 My Interests
-
-
-### 🎨 Outside Work
-
 When I'm not working with data or healthcare systems, you’ll likely find me:
 * **Sharing a meal, a conversation, or a cup of tea** with friends and family—there’s nothing quite like quality time with loved ones.
 * **Browsing used bookstores** and adding to my growing collection of **50+ classic books** (still working on reading them all!).
