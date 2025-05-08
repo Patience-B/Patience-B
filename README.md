@@ -28,5 +28,6 @@ When I'm not working with data or healthcare systems, you’ll likely find me:
 
 ---
 
-📫 **Let’s connect!**
-I’m always open to collaborating on impactful AI-healthcare projects or just chatting about books, data, or the future of Africa.
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/patience-bwire)
+
