@@ -17,7 +17,7 @@ I'm especially interested in the **future of AI in healthcare**, with a research
 
 I'm driven by the belief that AI can unlock better health outcomes globally, and I actively seek out projects and collaborations that align with that mission.
 
-### 🎨 Outside the Lab
+### 🎨 Outside Work
 
 When I'm not working with data or healthcare systems, you’ll likely find me:
 
