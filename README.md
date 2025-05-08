@@ -27,4 +27,4 @@ Python libraries: `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Plotly`, `GeoPandas`, 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
