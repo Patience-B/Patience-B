@@ -12,6 +12,18 @@ When I'm not working, you’ll likely find me:
 * **Solving jigsaw puzzles**—I enjoy the slow, calming rhythm of fitting pieces together and the sense of quiet focus it brings.
 * **Taking evening walks** to unplug, reflect, and reset after a long day.
 ---
+### 🛠️ Tools & Technologies
+
+🔍 Data Analysis & Visualization
+SQL, Tableau, Python
+Python libraries: Pandas, NumPy, SciPy, Seaborn, Plotly, GeoPandas, Shapely, Folium, Geoplot
+
+🤖 Machine Learning
+TensorFlow, scikit-learn, PyTorch, Keras
+
+🧰 Additional Skills
+Version Control (Git/GitHub), Agile Development, Programming (C, Bash), GSuite
+---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
