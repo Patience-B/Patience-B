@@ -2,9 +2,9 @@
 
 I’m a **Data Analyst and Data Scientist** with a passion for **global health**. Currently, I’m part of the **Healthcare Team** at [Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success), where we develop data-driven solutions to strengthen healthcare delivery—primarily in Rwanda, with a vision to scale across other African countries. 
 
-I'm especially interested in the **future of AI in healthcare**, with a research focus on Medical Imaging and Physiological Data Analysis. I'm driven by the belief that AI can unlock better health outcomes globally, and I actively seek out projects and collaborations that align with that mission.
+I'm especially interested in the **future of AI in healthcare**, with a research focus on Medical Imaging and Physiological Data Analysis. I'm driven by the belief that AI can unlock better health outcomes globally, and I actively seek out projects and collaborations that align with that mission. I’m passionate about building a future where **healthcare technologies are accessible to all**—not just a privileged few.
 
-In my free time, I volunteer as a **Coordinator** for the [Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program](https://event.fourwaves.com/spark/pages). I’m passionate about building a future where **medical imaging technologies are accessible to all**—not just a privileged few.
+In my free time, I volunteer as a **Coordinator** for the [Sprint Artificial Intelligence Training for the African Medical Imaging Knowledge Translation Program](https://event.fourwaves.com/spark/pages). 
 
 When I'm not working, you’ll likely find me:
 * **Sharing a meal, a conversation, or a cup of tea** with friends and family.
