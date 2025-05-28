@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Patience Bwire!
 
-I’m a **Data Analyst and Data Scientist** with a passion for **global health**. Currently, I’m part of the **Healthcare Team** at [Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success), where we develop data-driven solutions to strengthen healthcare delivery—primarily in Rwanda, with a vision to scale across other African countries. 
+I’m a **Data Analyst / Data Scientist** with a passion for **global health**. Currently, I’m part of the **Healthcare Team** at [Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success), where we develop data-driven solutions to strengthen healthcare delivery—primarily in Rwanda, with a vision to scale across other African countries. 
 
 I'm particularly passionate about the **future of AI in healthcare**, with a research focus on medical imaging and physiological data analysis. I believe AI has the potential to transform global health outcomes, and I’m committed to pursuing projects and collaborations that reflect that vision. My goal is to help build a future where **advanced healthcare technologies** are accessible to everyone—not just a privileged few.
 
