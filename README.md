@@ -2,7 +2,7 @@
 I’m a Data Analyst / Data Scientist who’s passionate about using data to solve real-world problems and drive meaningful impact.
 
 My work and interests span three key areas:
-* 🏥 Healthcare Systems – I’m especially focused on improving service delivery and resource allocation in African health systems. I love exploring questions like: Which regions are most affected by certain diseases? What resources are needed where? How can we plan better to save more lives?
+* 🏥 Healthcare Systems – I’m especially focused on improving service delivery and resource allocation in African health systems. I love exploring questions like: Which regions are most affected by specific disease burdens? What resources do they need? And how can we plan effectively to meet those needs?
 * ⚡ Energy Systems – I'm interested in how data can help optimize energy usage in households and communities, making energy more accessible, efficient, and sustainable.
 * 💰 Finance – I’m fascinated by how data science can support smarter investment decisions, detect fraud, and drive financial transparency.
 
