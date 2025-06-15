@@ -6,7 +6,7 @@ My work and interests span three key areas:
 * ⚡ Energy Systems – I'm interested in how data can help optimize energy usage in households and communities, making energy more accessible, efficient, and sustainable.
 * 💰 Finance – I’m fascinated by how data science can support smarter investment decisions, detect fraud, and drive financial transparency.
 
-Currently, I’m part of the **Healthcare Team** at **Sand Technologies**, where we’re building data-driven solutions to improve healthcare delivery—starting in Rwanda, with the goal of scaling across Africa.
+Currently, I’m part of the **Healthcare Team** at **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)**, where we’re building data-driven solutions to improve healthcare delivery—starting in Rwanda, with the goal of scaling across Africa.
 
 When I'm not working, you’ll likely find me:
 * **Sharing a meal, a conversation, or a cup of tea** with friends and family.
