@@ -10,7 +10,7 @@ Currently, I’m part of the **Healthcare Team** at **[Sand Technologies](https:
 
 When I'm not working, you’ll likely find me:
 * **Sharing a meal, a conversation, or a cup of tea** with friends and family.
-* **Browsing used bookstores** and adding to my growing collection of **50+ classic books** (still working on reading them all!).
+* **Browsing used bookstores** and adding to my growing collection of **[50+ classic books](https://heady-meeting-88a.notion.site/95c49bdd356c4a04b9df66d61e23a373?v=08441231650247fb8fe9b0702a21203d)** (still working on reading them all!).
 * **Solving jigsaw puzzles**—I enjoy the slow, calming rhythm of fitting pieces together and the sense of quiet focus it brings.
 * **Taking evening walks** to unplug, reflect, and reset after a long day.
 ---
