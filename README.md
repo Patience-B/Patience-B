@@ -3,8 +3,11 @@ I’m a Data Analyst / Data Scientist who’s passionate about using data to sol
 
 My work and interests span three key areas:
 * 🏥 Healthcare Systems – I’m especially focused on improving service delivery and resource allocation in African health systems. I love exploring questions like: Which regions are most affected by specific disease burdens? What resources do they need? And how can we plan effectively to meet those needs?
-* ⚡ Energy Systems – I'm interested in how data can help optimize energy usage in households and communities, making energy more accessible, efficient, and sustainable.
-* 💰 Finance – I’m fascinated by how data science can support smarter investment decisions, detect fraud, and drive financial transparency.
+* 🧠 Medical imaging segmentation - I focus on medical imaging segmentation, with an emphasis on designing machine learning models and architectures that work well in low-resource settings. Many medical imaging datasets from African institutions are small, fragmented, and of limited quality. To address this, I explore methods for image enhancement and efficient segmentation that can be executed on personal computers. The goal is to overcome infrastructure limitations and make advanced diagnostic tools more accessible.
+* 📊 Physiological data anaysis - My interest lies in analyzing non-invasive signals—such as heart and lung sounds and heart rate time series data—to uncover meaningful patterns that may point to underlying health conditions. I aim to contribute to the development of affordable and accessible monitoring tools that support early detection and better disease management, especially in underserved regions.
+
+
+
 
 Currently, I’m part of the **Healthcare Team** at **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)**, where we’re building data-driven solutions to improve healthcare delivery—starting in Rwanda, with the goal of scaling across Africa.
 
