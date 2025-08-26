@@ -2,6 +2,7 @@
 I’m a Data Analyst / Data Scientist who’s passionate about using data to solve real-world global health problems and drive meaningful impact.
 
 **👩🏽‍⚕️ About My Work**
+
 My work is at the intersection of healthcare, machine learning, and signal processing, with a specific focus on developing practical, low-resource solutions for African health systems. My three main areas of interest are:
 
 * 🏥 Healthcare Systems Analysis: I use data to improve resource allocation and service delivery in African healthcare, exploring questions about disease burden and resource needs to enhance effective planning.
