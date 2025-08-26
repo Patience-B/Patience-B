@@ -2,12 +2,13 @@
 I’m a Data Analyst / Data Scientist who’s passionate about using data to solve real-world problems and drive meaningful impact.
 
 **👩🏽‍⚕️ About My Work**
+My work is at the intersection of healthcare, machine learning, and signal processing, with a specific focus on developing practical, low-resource solutions for African health systems. My three main areas of interest are:
 
-My interests span three core areas at the intersection of healthcare, machine learning, and signal processing:
+* 🏥 Healthcare Systems Analysis: I use data to improve resource allocation and service delivery in African healthcare, exploring questions about disease burden and resource needs to enhance effective planning.
 
-* 🏥 Healthcare Systems – I’m especially focused on improving service delivery and resource allocation in African health systems. I love exploring questions like: Which regions are most affected by specific disease burdens? What resources do they need? And how can we plan effectively to meet those needs? 
-* 🧠 Medical Imaging Segmentation - I focus on medical imaging segmentation, with an emphasis on designing machine learning models and architectures that work well in low-resource settings. Many medical imaging datasets from African institutions are small, fragmented, and of limited quality. To address this, I explore methods for image enhancement and efficient segmentation that can be executed on personal computers. The goal is to overcome infrastructure limitations and make advanced diagnostic tools more accessible.
-* 📊 Physiological Data Analysis - My interest lies in analyzing non-invasive signals—such as heart and lung sounds and heart rate time series data—to uncover meaningful patterns that may point to underlying health conditions. I aim to contribute to the development of affordable and accessible monitoring tools that support early detection and better disease management, especially in underserved regions.
+* 🧠 Medical Imaging Segmentation: I design efficient machine learning models for medical image analysis that overcome limitations of small, low-quality datasets common in low-resource settings. My goal is to develop accessible diagnostic tools that can run on personal computers.
+
+* 📊 Physiological Data Analysis: I analyze non-invasive signals like heart and lung sounds to identify patterns that reveal underlying health conditions. My work aims to create affordable and accessible monitoring tools for early disease detection and management in underserved regions.
 
 Currently, I’m part of the **Healthcare Team** at **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)**, where we’re developing data-driven solutions aimed at transforming healthcare accessibility in Africa. Our mission is to improve access to essential healthcare services in rural areas while leveraging AI and data analytics to deliver actionable insights to all stakeholders across the healthcare ecosystem.
 
