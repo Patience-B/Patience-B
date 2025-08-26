@@ -21,15 +21,28 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tools & Technologies
 
-**Data Analysis & Visualization**  
-`SQL`, `Tableau`, `Python`  
-Python libraries: `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Plotly`, `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
+**📊 Data Analysis & Visualization**
 
-**Machine Learning**  
-`TensorFlow`, `scikit-learn`, `PyTorch`, `Keras`
+* 🗄️ SQL | 📈 Tableau | 🐍 Python | 🖥️ Streamlit
+* Python libraries: `Pandas`, `NumPy`, `SciPy`, `Seaborn`, `Plotly`, `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
+* ⚡ Distributed Computing: `PySpark`, `Dask`
 
-**Additional Skills**  
-`Version Control (Git/GitHub)`, `Agile Development`, `Programming (C, Bash)`, `GSuite`
+**🤖 Machine Learning**
+
+* 🧠 TensorFlow | 🔥 PyTorch | ⚙️ Keras | 📐 scikit-learn
+
+**🛠️ Development & Productivity**
+
+* 🌱 Version Control: `Git`, `GitHub`
+* 🚀 Agile Development
+* 💻 Programming: `C`, `Bash`
+* 📂 Productivity: `GSuite`
+
+**☁️ Cloud & Infrastructure**
+
+* 🐳 Docker
+* ☁️ AWS: `Amazon S3`, `Amazon EC2`
+* 🐘 PostgreSQL
 
 ---
 
