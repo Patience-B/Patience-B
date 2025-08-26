@@ -42,10 +42,9 @@ When I'm not working, you’ll likely find me:
 
 **☁️ Cloud & Infrastructure**
 
-* 🐳 Docker
-* ☁️ AWS: `Amazon S3`, `Amazon EC2`
 * 🐘 PostgreSQL
-
+* ☁️ AWS: `Amazon S3`, `Amazon EC2`
+* 🐳 Docker
 ---
 
 ### 📫 Connect with Me
