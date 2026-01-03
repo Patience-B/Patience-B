@@ -17,9 +17,7 @@ I use geospatial data and population modeling to map healthcare coverage and inf
 
 #### 🧠 Medical AI for Low-Resource Settings
 
-I develop efficient, reliable machine-learning models for medical imaging designed to function in environments with limited specialist availability and constrained computing resources.
-
-My focus is on practical diagnostic support, not benchmark chasing — building models that can run on consumer-grade hardware and support clinicians where access to expert radiologists and high-performance infrastructure is limited.
+I develop efficient, reliable machine-learning models for medical imaging designed to function in environments with limited specialist availability and constrained computing resources. My focus is on practical diagnostic support, not benchmark chasing — building models that can run on consumer-grade hardware and support clinicians where access to expert radiologists and high-performance infrastructure is limited.
 
 **Current focus:**
 
