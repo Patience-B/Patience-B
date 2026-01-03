@@ -1,11 +1,11 @@
-### 👋 Hi there, I'm Patience Bwire!
+## 👋 Hi there, I'm Patience Bwire!
 I'm a **Healthcare Data Scientist** passionate about using data and AI to improve healthcare accessibility in Africa. 
 
-#### 👩🏽‍⚕️ About My Work
+### 👩🏽‍⚕️ About My Work
 
 I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
 
-**🏥 Healthcare Access & Systems Analysis**
+#### 🏥 Healthcare Access & Systems Analysis
 
 I use geospatial data and population modeling to map healthcare coverage and inform resource allocation decisions. At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I have built and maintained production-grade data pipelines that analyze travel time, facility catchment areas, and population distribution across multiple African countries. This work supports ministries of health and partners in identifying underserved populations and prioritizing interventions aligned with Universal Health Coverage goals.
 
@@ -15,7 +15,7 @@ I use geospatial data and population modeling to map healthcare coverage and inf
 * Healthcare accessibility scoring and gap analysis
 * Data-driven facility placement recommendations
 
-**🧠 Medical AI for Low-Resource Settings**
+#### 🧠 Medical AI for Low-Resource Settings
 
 I develop efficient, reliable machine-learning models for medical imaging designed to function in environments with limited specialist availability and constrained computing resources.
 
@@ -27,6 +27,7 @@ My focus is on practical diagnostic support, not benchmark chasing — building 
 * Medical image segmentation using U-Net variants
 * Model compression and quantization for resource-constrained environments
 * Diagnostic reliability and quality considerations in real-world clinical settings
+---
 
 When I'm not working, you’ll likely find me:
 * **Sharing a meal, a conversation, or a cup of tea** with friends and family.
