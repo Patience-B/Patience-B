@@ -5,14 +5,16 @@ I'm a **Healthcare Data Scientist** passionate about using data and AI to improv
 I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
 
 **🏥 Healthcare Access & Systems Analysis**
+
 I use geospatial data and population modeling to map healthcare coverage and inform resource allocation decisions. At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I've built data pipelines analyzing travel times, facility catchment areas, and population distribution across multiple African countries, helping ministries identify underserved regions and prioritize interventions.
+
 What I work on:
 Isochrone analysis (travel-time catchment areas for health facilities)
 Population aggregation using H3 hexagonal tiles and administrative boundaries
 Healthcare accessibility scoring and gap analysis
 Data-driven facility placement recommendations
 
-🧠 Medical AI for Low-Resource Settings
+**🧠 Medical AI for Low-Resource Settings**
 I'm developing lightweight machine learning models for medical imaging that can run on consumer laptops without expensive GPUs. My focus is on creating practical diagnostic tools for diseases like brain tumors, cancers that work in low resource settings without low number of specialist radiologists and limited access to high computing resources.
 Current focus:
 
