@@ -1,5 +1,6 @@
 ### 👋 Hi there, I'm Patience Bwire!
 I'm a **Healthcare Data Scientist** passionate about using data and AI to improve healthcare accessibility in Africa. 
+
 **👩🏽‍⚕️ About My Work**
 
 I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
@@ -15,6 +16,7 @@ Healthcare accessibility scoring and gap analysis
 Data-driven facility placement recommendations
 
 **🧠 Medical AI for Low-Resource Settings**
+
 I'm developing lightweight machine learning models for medical imaging that can run on consumer laptops without expensive GPUs. My focus is on creating practical diagnostic tools for diseases like brain tumors, cancers that work in low resource settings without low number of specialist radiologists and limited access to high computing resources.
 Current focus:
 
