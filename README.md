@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Patience Bwire!
 I'm a **Healthcare Data Scientist** passionate about using data and AI to improve healthcare accessibility in Africa. 
 
-**👩🏽‍⚕️ About My Work**
+#### 👩🏽‍⚕️ About My Work
 
 I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
 
