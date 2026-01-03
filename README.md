@@ -1,18 +1,24 @@
 ### 👋 Hi there, I'm Patience Bwire!
-I’m a Data Analyst / Data Scientist who’s passionate about using data to solve real-world global health problems and drive meaningful impact.
-
+I'm a **Healthcare Data Scientist** passionate about using data and AI to improve healthcare accessibility in Africa. 
 **👩🏽‍⚕️ About My Work**
 
-My work is at the intersection of healthcare, machine learning, and signal processing, with a specific focus on developing practical, low-resource solutions for African health systems. My three main areas of interest are:
+I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
 
-* 🏥 Healthcare Systems Analysis: I use data to improve resource allocation and service delivery in African healthcare, exploring questions about disease burden and resource needs to enhance effective planning.
+**🏥 Healthcare Access & Systems Analysis**
+I use geospatial data and population modeling to map healthcare coverage and inform resource allocation decisions. At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I've built data pipelines analyzing travel times, facility catchment areas, and population distribution across multiple African countries, helping ministries identify underserved regions and prioritize interventions.
+What I work on:
+Isochrone analysis (travel-time catchment areas for health facilities)
+Population aggregation using H3 hexagonal tiles and administrative boundaries
+Healthcare accessibility scoring and gap analysis
+Data-driven facility placement recommendations
 
-* 🧠 Medical Imaging Segmentation: I develop efficient, lightweight machine learning models for medical image analysis and segmentation, tailored to address the challenges of limited computing resources in low-resource settings. My goal is to create accessible diagnostic tools that can run seamlessly on personal computers.
-  
-* 📊 Physiological Data Analysis: I analyze non-invasive signals like heart and lung sounds to identify patterns that reveal underlying health conditions. My work aims to create affordable and accessible monitoring tools for early disease detection and management in underserved regions.
+🧠 Medical AI for Low-Resource Settings
+I'm developing lightweight machine learning models for medical imaging that can run on consumer laptops without expensive GPUs. My focus is on creating practical diagnostic tools for diseases like brain tumors, cancers that work in low resource settings without low number of specialist radiologists and limited access to high computing resources.
+Current focus:
 
-Currently, I’m part of the **Healthcare Team** at **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)**, where we’re developing data-driven solutions aimed at transforming healthcare accessibility in Africa. Our mission is to improve access to essential healthcare services in rural areas while leveraging AI and data analytics to deliver actionable insights to all stakeholders across the healthcare ecosystem.
-
+Efficient model architectures (MobileNet, EfficientNet) optimized for edge deployment
+Medical image segmentation using U-Net variants
+Model compression and quantization for resource-constrained environments
 
 
 When I'm not working, you’ll likely find me:
