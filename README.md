@@ -37,12 +37,12 @@ When I'm not working, you’ll likely find me:
 
 | **Domain** | **Tools & Technologies** |
 |------------|--------------------------|
-| ** Geospatial AI** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap (OSM), Isochrone Modeling |
-| ** Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
-| ** Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
-| ** Data Science & Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
-| ** Health Systems** | DHIS2, UHC Frameworks, Facility Registries, Primary Health Care (PHC), Health Systems Analytics |
-| ** Development & Productivity** | Git, GitHub, Agile Development, Bash, C, Docker, GSuite |
+| **Geospatial AI** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap (OSM), Isochrone Modeling |
+| **Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
+| **Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
+| **Data Science & Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
+| **Health Systems** | DHIS2, UHC Frameworks, Facility Registries, Primary Health Care (PHC), Health Systems Analytics |
+| **Development & Productivity** | Git, GitHub, Agile Development, Bash, C, Docker, GSuite |
 
 ---  
 
