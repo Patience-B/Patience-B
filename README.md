@@ -33,30 +33,30 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tech Stack & Expertise  
 
-### 🗺️ Geospatial Analysis
+#### 🗺️ Geospatial Analysis
 - Python: `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
 - H3 Indexing, OpenStreetMap, Isochrone Modeling  
 
-### ⚙️ Data Engineering
+#### ⚙️ Data Engineering
 - SQL, PostgreSQL  
 - AWS: `S3`, `EC2`, `RDS`  
 - Distributed: `PySpark`, `Dask`  
 
-### 📊 Data Analysis & Visualization
+#### 📊 Data Analysis & Visualization
 - Python: `Pandas`, `NumPy`, `SciPy`  
 - Tableau, Streamlit  
 - Visualization: `Seaborn`, `Plotly`  
 
-### 🤖 Machine Learning
+#### 🤖 Machine Learning
 - `scikit-learn`, TensorFlow, PyTorch, Keras  
 - Population Coverage Modeling  
 
-### 🏥 Health Systems
+#### 🏥 Health Systems
 - DHIS2, UHC Frameworks  
 - Facility Registries, PHC  
 - Health Systems Analytics  
 
-### 🛠️ Development & Productivity
+#### 🛠️ Development & Productivity
 - Git, GitHub, Docker  
 - Bash, C  
 - Agile, GSuite  
