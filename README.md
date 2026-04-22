@@ -16,13 +16,13 @@ I combine geospatial modeling, population data, and health system metrics to gen
 
 ### 🔍 Core Areas of Work
 
-**📍 Healthcare Accessibility Modeling**
+**📍 Healthcare Accessibility Modeling:**
 Travel-time and catchment area analysis, population coverage modeling using H3 hexagonal grids, accessibility scoring and gap analysis, and data-driven recommendations for facility placement and infrastructure investment.
 
-**🏗️ Health System Strengthening**
+**🏗️ Health System Strengthening:**
 Prioritizing facilities for digitization, evaluating post-digitization performance (tool usage, data quality, reporting completeness), and supporting planning for service delivery — equipment, medicines, and workforce allocation.
 
-**⚙️ Data Engineering**
+**⚙️ Data Engineering:**
 Building scalable pipelines for geospatial and health datasets, standardizing multi-country data (administrative boundaries, road networks, facility registries), automating workflows on AWS (S3, RDS, EC2), and designing validation frameworks to ensure data reliability.
 
 ---
@@ -37,12 +37,12 @@ When I'm not working, you’ll likely find me:
 
 | **Domain** | **Tools & Technologies** |
 |------------|--------------------------|
-| **🌍 Geospatial AI** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap (OSM), Isochrone Modeling |
-| **⚙️ Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
-| **📊 Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
-| **🤖 Data Science & Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
-| **🏥 Health Systems** | DHIS2, UHC Frameworks, Facility Registries, Primary Health Care (PHC), Health Systems Analytics |
-| **🛠️ Development & Productivity** | Git, GitHub, Agile Development, Bash, C, Docker, GSuite |
+| ** Geospatial AI** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap (OSM), Isochrone Modeling |
+| ** Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
+| ** Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
+| ** Data Science & Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
+| ** Health Systems** | DHIS2, UHC Frameworks, Facility Registries, Primary Health Care (PHC), Health Systems Analytics |
+| ** Development & Productivity** | Git, GitHub, Agile Development, Bash, C, Docker, GSuite |
 
 ---  
 
