@@ -1,30 +1,27 @@
 ## 👋 Hi there, I'm Patience Bwire!
-I'm a **Healthcare Data Scientist** passionate about using data and AI to improve healthcare accessibility in Africa. 
+I’m a **Data Scientist** focused on building data systems that strengthen health systems and expand access to care across Africa. My work sits at the intersection of geospatial analytics, machine learning, and health systems engineering, with a strong emphasis on turning complex data into actionable decisions for governments and partners.
 
-### 👩🏽‍⚕️ About My Work
 
-I specialize in two complementary areas at the intersection of data science, geospatial analysis, and machine learning:
+### 👩🏽‍⚕️ What I Do
+Healthcare Access & Systems Intelligence
+At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I develop the data workflows and geospatial models that power national-level healthcare planning across multiple African countries.
 
-#### 🏥 Healthcare Access & Systems Analysis
+**The questions I work to answer:**
+* Who has access to care — and who doesn't?
+* Where should new facilities or digital systems be prioritized?
+* Are digital health investments actually improving service delivery?
 
-I use geospatial data and population modeling to map healthcare coverage and inform resource allocation decisions. At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I have built and maintained production-grade data pipelines that analyze travel time, facility catchment areas, and population distribution across multiple African countries. This work supports ministries of health and partners in identifying underserved populations and prioritizing interventions aligned with Universal Health Coverage goals.
+I combine geospatial modeling, population data, and health system metrics to generate insights that support Ministries of Health, global health organizations, and partners working toward Universal Health Coverage (UHC).
 
-**What I work on:**
-* Isochrone analysis (travel-time catchment areas for health facilities)
-* Population aggregation using H3 hexagonal tiles and administrative boundaries
-* Healthcare accessibility scoring and gap analysis
-* Data-driven facility placement recommendations
 
-#### 🧠 Medical AI for Low-Resource Settings
+### 🔍 Core Areas of Work
+**📍 Healthcare Accessibility Modeling**
+Travel-time and catchment area analysis, population coverage modeling using H3 hexagonal grids, accessibility scoring and gap analysis, and data-driven recommendations for facility placement and infrastructure investment.
+**🏗️ Health System Strengthening**
+Prioritizing facilities for digitization, evaluating post-digitization performance (tool usage, data quality, reporting completeness), and supporting planning for service delivery — equipment, medicines, and workforce allocation.
+**⚙️ Data Engineering**
+Building scalable pipelines for geospatial and health datasets, standardizing multi-country data (administrative boundaries, road networks, facility registries), automating workflows on AWS (S3, RDS, EC2), and designing validation frameworks to ensure data reliability.
 
-I develop efficient, reliable machine-learning models for medical imaging designed to function in environments with limited specialist availability and constrained computing resources. My focus is on practical diagnostic support, not benchmark chasing — building models that can run on consumer-grade hardware and support clinicians where access to expert radiologists and high-performance infrastructure is limited.
-
-**Current focus:**
-
-* Efficient model architectures (MobileNet, EfficientNet) optimized for edge deployment
-* Medical image segmentation using U-Net variants
-* Model compression and quantization for resource-constrained environments
-* Diagnostic reliability and quality considerations in real-world clinical settings
 ---
 
 When I'm not working, you’ll likely find me:
@@ -59,7 +56,13 @@ When I'm not working, you’ll likely find me:
 * 🐳 Docker
 ---
 
-**PS:** I’m particularly interested in research collaborations, PhD opportunities, and applied projects focused on equitable healthcare systems and diagnostics in low- and middle-income countries.
+### 🎯 What I'm Exploring Next
+
+* Pursuing a PhD focused on health systems strengthening, AI, and geospatial analytics
+* Collaborating with researchers and institutions on data-driven healthcare transformation
+* Contributing to open source projects for health system planning in low-resource settings
+
+If you're working in global health, geospatial data, or AI for social impact — I'd love to connect.
 
 ### 📫 Connect with Me
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patience-bwire)
