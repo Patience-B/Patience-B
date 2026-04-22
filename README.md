@@ -37,7 +37,7 @@ When I'm not working, you’ll likely find me:
 
 | **Domain** | **Tools & Technologies** |
 |------------|--------------------------|
-| **Geospatial AI** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap, Isochrone Modeling |
+| **Geospatial Analysis** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap, Isochrone Modeling |
 | **Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
 | **Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
 | **Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
