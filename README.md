@@ -52,9 +52,7 @@ When I'm not working, you’ll likely find me:
 - Population Coverage Modeling  
 
 #### 🏥 Health Systems
-- DHIS2, UHC Frameworks  
-- Facility Registries, PHC  
-- Health Systems Analytics  
+- DHIS2, UHC Frameworks , Facility Registries, PHC, Health Systems Analytics  
 
 #### 🛠️ Development & Productivity
 - Git, GitHub, Docker  
