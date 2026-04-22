@@ -1,9 +1,7 @@
 ## 👋 Hi there, I'm Patience Bwire!
 I’m a **Data Scientist** focused on building data systems that strengthen health systems and expand access to care across Africa. My work sits at the intersection of geospatial analytics, machine learning, and health systems engineering, with a strong emphasis on turning complex data into actionable decisions for governments and partners.
 
-
 ### 👩🏽‍⚕️ What I Do
-Healthcare Access & Systems Intelligence
 At **[Sand Technologies](https://healthcare.sandtech.com/#RHOS_Success)** , I develop the data workflows and geospatial models that power national-level healthcare planning across multiple African countries.
 
 **The questions I work to answer:**
@@ -35,15 +33,35 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tech Stack & Expertise  
 
-| **Domain** | **Tools & Technologies** |
-|------------|--------------------------|
-| **Geospatial Analysis** | Python (`GeoPandas`, `Shapely`, `Folium`, `Geoplot`), H3 Indexing, OpenStreetMap, Isochrone Modeling |
-| **Data Engineering** | SQL, PostgreSQL, AWS (`Amazon S3`, `Amazon EC2`, `RDS`), Automated Data Ingestion, `PySpark`, `Dask` |
-| **Data Analysis & Visualization** | Python (`Pandas`, `NumPy`, `SciPy`), Tableau, Streamlit, `Seaborn`, `Plotly` |
-| **Machine Learning** | `scikit-learn`, TensorFlow, PyTorch, Keras, Population Coverage Modeling |
-| **Health Systems** | DHIS2, UHC Frameworks, Facility Registries, Primary Health Care (PHC), Health Systems Analytics |
-| **Development & Productivity** | Git, GitHub, Agile Development, Bash, C, Docker, GSuite |
+### 🗺️ Geospatial Analysis
+- Python: `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
+- H3 Indexing, OpenStreetMap, Isochrone Modeling  
 
+### ⚙️ Data Engineering
+- SQL, PostgreSQL  
+- AWS: `S3`, `EC2`, `RDS`  
+- Distributed: `PySpark`, `Dask`  
+
+### 📊 Data Analysis & Visualization
+- Python: `Pandas`, `NumPy`, `SciPy`  
+- Tableau, Streamlit  
+- Visualization: `Seaborn`, `Plotly`  
+
+### 🤖 Machine Learning
+- `scikit-learn`, TensorFlow, PyTorch, Keras  
+- Population Coverage Modeling  
+
+### 🏥 Health Systems
+- DHIS2, UHC Frameworks  
+- Facility Registries, PHC  
+- Health Systems Analytics  
+
+### 🛠️ Development & Productivity
+- Git, GitHub, Docker  
+- Bash, C  
+- Agile, GSuite  
+
+---
 ---  
 
 ### 🎯 What I'm Exploring Next
