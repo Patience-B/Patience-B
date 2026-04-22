@@ -15,13 +15,13 @@ I combine geospatial modeling, population data, and health system metrics to gen
 ### 🔍 Core Areas of Work
 
 **📍 Healthcare Accessibility Modeling:**
-Travel-time and catchment area analysis, population coverage modeling using H3 hexagonal grids, accessibility scoring and gap analysis, and data-driven recommendations for facility placement and infrastructure investment.
+Designing isochrone and catchment models to identify service gaps; leveraging H3 hexagonal grids to provide high-resolution population coverage insights that guide facility placement and infrastructure investment.
 
 **🏗️ Health System Strengthening:**
-Prioritizing facilities for digitization, evaluating post-digitization performance (tool usage, data quality, reporting completeness), and supporting planning for service delivery — equipment, medicines, and workforce allocation.
+Driving digital transformation by prioritizing facilities for digitization and measuring post-implementation impact through data quality and service delivery metrics (workforce, supply chain, and equipment).
 
 **⚙️ Data Engineering:**
-Building scalable pipelines for geospatial and health datasets, standardizing multi-country data (administrative boundaries, road networks, facility registries), automating workflows on AWS (S3, RDS, EC2), and designing validation frameworks to ensure data reliability.
+Developing robust automated workflows to standardize fragmented multi-country datasets; implementing validation frameworks and cloud-based pipelines(AWS) to ensure high-integrity data for national health planning. 
 
 ---
 
@@ -62,8 +62,6 @@ When I'm not working, you’ll likely find me:
 - Agile, GSuite  
 
 ---
----  
-
 ### 🎯 What I'm Exploring Next
 
 * Pursuing a PhD focused on health systems strengthening, AI, and geospatial analytics
