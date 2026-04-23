@@ -33,8 +33,8 @@ When I'm not working, you’ll likely find me:
 ---
 ### 🛠️ Tech Stack & Expertise  
 #### 🗺️ Geospatial Analysis
-- Python: `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
-- H3 Indexing, OpenStreetMap, Isochrone Modeling  
+* Python: `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
+* H3 Indexing, OpenStreetMap, Isochrone Modeling  
 #### ⚙️ Data Engineering
 - SQL, PostgreSQL  
 - AWS: `S3`, `EC2`, `RDS`  
