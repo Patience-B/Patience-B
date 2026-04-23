@@ -32,11 +32,9 @@ When I'm not working, you’ll likely find me:
 * **Taking evening walks** to unplug, reflect, and reset after a long day.
 ---
 ### 🛠️ Tech Stack & Expertise  
-
 #### 🗺️ Geospatial Analysis
 - Python: `GeoPandas`, `Shapely`, `Folium`, `Geoplot`
 - H3 Indexing, OpenStreetMap, Isochrone Modeling  
-
 #### ⚙️ Data Engineering
 - SQL, PostgreSQL  
 - AWS: `S3`, `EC2`, `RDS`  
